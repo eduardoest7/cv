@@ -1,0 +1,40 @@
+*{
+    font-family: 'Quicksand', Helvetica, sans-serif;
+}
+
+body{
+    background-color: lightgray;
+}
+
+#titulo{
+    color: blue;
+}
+/*aqui voy a poner mis estilos */
+
+.foto{
+    
+    box-shadow: 5px 10px 10px #c0c0c0;
+    
+}
+
+.parrafo{
+    
+    width: 80%;
+    height: 200px;
+    background-color: rgb(236, 235, 235);
+    border: 2px solid rgb(192, 191, 191);
+    border-radius: 10px;
+    box-shadow: 5px 10px 10px #c0c0c0;
+    font-size: 18px;
+    color: rgb(104, 104, 104);
+    padding-top: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.card{
+    width: 90%;
+    height: 150px;
+    border: 2px;
+    border-radius: 10;
+}
